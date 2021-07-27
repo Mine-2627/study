@@ -9,7 +9,6 @@ import java.util.Date;
 /**
  * description
  *
- * @author ying.ma01@hand-china.com 2021/07/21 8:57
  */
 @Data
 public class DemoData {

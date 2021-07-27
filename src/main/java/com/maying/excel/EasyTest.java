@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * description
  *
- * @author ying.ma01@hand-china.com 2021/07/21 8:56
  */
 public class EasyTest {
 
