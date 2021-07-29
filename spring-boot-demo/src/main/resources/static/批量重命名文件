@@ -1,0 +1,90 @@
+可以用echo % cd %进行打印测试
+windows 的快捷方式不能使用相对路径。可以用批处理文件获取相对路径。
+set pa=% cd % 将当前路径赋值给pa
+echo %pa% 显示pa变量
+
+注意:如果路径中包含空格，则应该将路径加文件名用双引号括起来。
+
+获取当前文件夹下所有jpg文件
+
+@echo off
+for /f "delims=\" %%a in ('dir /b /a-d /o-d "%~dp0\*.jpg"') do (
+    echo %%a：文件完整信息
+    echo %%~da：保留文件所在驱动器信息
+    echo %%~pa：保留文件所在路径信息
+    echo %%~na：保留文件名信息
+    echo %%~xa：保留文件后缀信息
+    echo %%~za：保留文件大小信息
+    echo %%~ta：保留文件修改时间信息
+    echo %%~dpa：保留文件所在驱动器和所在路径信息
+    echo %%~nxa：保留文件名及后缀信息
+    echo %%~pnxa：保留文件所在路径及文件名和后缀信息
+    echo %%~dpna：保留文件驱动器、路径、文件名信息
+    echo %%~dpnxa：保留文件驱动器、路径、文件名、后缀信息
+)
+pause
+
+
+下面为批量重命名文件（适用于单个类型）
+
+@echo off
+
+set a=000
+
+setlocal EnableDelayedExpansion
+for %%n in (*.txt) do (
+
+set /A a+=1
+
+ren "%%n" "!a!.mp4"
+
+)
+
+
+for %%a in (*.mp4) do (
+    echo %%~na|findstr "^[0-9]*$" >nul && (
+        if %%~na lss 10 (
+            ren "%%~a" "abc00%%~na.tmp"
+        ) else (
+            if %%~na lss 100 (
+                ren "%%~a" "abc0%%~na.tmp"
+            ) else (
+                ren "%%~a" "abc%%~na.tmp"
+            )
+        )
+    )
+)
+ren abc*.tmp abc*.mp4
+pause
+
+
+下面为批量重命名文件（适用于多类型）
+
+@echo off
+
+set a=000
+
+setlocal EnableDelayedExpansion
+for %%n in (*.mp4,*.mp3) do (
+
+echo %%n已修改
+set /A a+=1
+
+ren "%%n" "!a!%%~xn"
+
+)
+
+for %%a in (*.mp4,*.mp3) do (
+    echo %%~na|findstr "^[0-9]*$" >nul && (
+        if %%~na lss 10 (
+            ren "%%~a" "efg00%%~na%%~xa"
+        ) else (
+            if %%~na lss 100 (
+                ren "%%~a" "efg0%%~na%%~xa"
+            ) else (
+                ren "%%~a" "efg%%~na%%~xa"
+            )
+        )
+    )
+)
+pause
