@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,23 @@
       <recent name="D:\ebook\study\spring-boot-demo\src\main\java\com\maying\springbootdemo\service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ProcessInstanceServiceImpl.streamDisticntTest">
+  <component name="RunManager" selected="JUnit.HttpClientService.downloadFile">
+    <configuration name="HttpClientService.downloadFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maying.springbootdemo.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.maying.springbootdemo.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.maying.springbootdemo.service.impl.HttpClientService" />
+      <option name="METHOD_NAME" value="downloadFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProcessInstanceServiceImpl.streamDisticntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-demo" />
       <extension name="coverage">
@@ -112,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HttpClientService.downloadFile" />
         <item itemvalue="JUnit.ProcessInstanceServiceImpl.streamDisticntTest" />
       </list>
     </recent_temporary>
@@ -131,7 +150,8 @@
       <workItem from="1627395971216" duration="2001000" />
       <workItem from="1627400528824" duration="1164000" />
       <workItem from="1627430689514" duration="5421000" />
-      <workItem from="1627519871661" duration="1628000" />
+      <workItem from="1627519871661" duration="1931000" />
+      <workItem from="1627525680792" duration="2048000" />
     </task>
     <servers />
   </component>
@@ -167,38 +187,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="209" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627400562668" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1627437893002">
+    <state width="1877" height="389" key="GridCell.Tab.0.bottom" timestamp="1627527152660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627437893002" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1627437893001">
+    <state width="1877" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627527152660" />
+    <state width="1877" height="389" key="GridCell.Tab.0.center" timestamp="1627527152660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627437893001" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1627437893001">
+    <state width="1877" height="389" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627527152660" />
+    <state width="1877" height="389" key="GridCell.Tab.0.left" timestamp="1627527152660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627437893001" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1627437893002">
+    <state width="1877" height="389" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627527152660" />
+    <state width="1877" height="389" key="GridCell.Tab.0.right" timestamp="1627527152660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627437893002" />
-    <state width="1877" height="297" key="GridCell.Tab.1.bottom" timestamp="1627401704056">
+    <state width="1877" height="389" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627527152660" />
+    <state width="1877" height="297" key="GridCell.Tab.1.bottom" timestamp="1627527049366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627401704056" />
-    <state width="1877" height="297" key="GridCell.Tab.1.center" timestamp="1627401704056">
+    <state width="1877" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627527049366" />
+    <state width="1877" height="297" key="GridCell.Tab.1.center" timestamp="1627527049366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627401704056" />
-    <state width="1877" height="297" key="GridCell.Tab.1.left" timestamp="1627401704056">
+    <state width="1877" height="297" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627527049366" />
+    <state width="1877" height="297" key="GridCell.Tab.1.left" timestamp="1627527049366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627401704056" />
-    <state width="1877" height="297" key="GridCell.Tab.1.right" timestamp="1627401704056">
+    <state width="1877" height="297" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627527049366" />
+    <state width="1877" height="297" key="GridCell.Tab.1.right" timestamp="1627527049366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627401704056" />
+    <state width="1877" height="297" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627527049366" />
     <state width="1877" height="297" key="GridCell.Tab.2.bottom" timestamp="1627401704056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -215,6 +235,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="297" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627401704056" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1627525903929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627525903929" />
     <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1627374695796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
