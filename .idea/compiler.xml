@@ -6,10 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="poi" />
+        <module name="test" />
         <module name="easyExcel" />
         <module name="spring-boot-demo" />
-        <module name="poi" />
-        <module name="demo" />
         <module name="sprint-boot" />
       </profile>
     </annotationProcessing>
@@ -19,12 +20,14 @@
       <module name="poi" target="1.8" />
       <module name="spring-boot-demo" target="1.8" />
       <module name="sprint-boot" target="1.8" />
+      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
       <module name="spring-boot-demo" options="-parameters" />
+      <module name="test" options="-parameters" />
     </option>
   </component>
 </project>
