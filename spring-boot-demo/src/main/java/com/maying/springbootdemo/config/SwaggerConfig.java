@@ -26,6 +26,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
     @Bean
     public Docket docket(){
         return new Docket(DocumentationType.SWAGGER_2)
+                .groupName("spring-boot")
                 .apiInfo(createApiInfo())
                 .select()
                 //扫描接口方式 any(扫描全部） basePackage(指定包)
