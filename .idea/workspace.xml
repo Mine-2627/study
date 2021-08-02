@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -78,6 +77,7 @@
       <recent name="com.maying.springbootdemo.domain.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\java\com\maying\springbootdemo\service" />
     </key>
   </component>
@@ -167,6 +167,7 @@
       <workItem from="1627743721229" duration="2020000" />
       <workItem from="1627826683122" duration="404000" />
       <workItem from="1627863700789" duration="64000" />
+      <workItem from="1627895280433" duration="923000" />
     </task>
     <servers />
   </component>
