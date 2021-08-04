@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,6 +169,7 @@
       <workItem from="1627895280433" duration="1585000" />
       <workItem from="1627976979349" duration="6823000" />
       <workItem from="1628040617133" duration="77000" />
+      <workItem from="1628070083800" duration="285000" />
     </task>
     <servers />
   </component>
