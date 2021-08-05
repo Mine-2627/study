@@ -6,11 +6,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/poi/pom.xml" />
         <option value="$PROJECT_DIR$/easyExcel/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot/pom.xml" />
         <option value="$PROJECT_DIR$/spring/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/provider-service/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-server/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/pom.xml" />
       </list>
     </option>
   </component>

@@ -4,7 +4,6 @@ import lombok.Data;
 
 /**
  * 流程实例对象
- *
  */
 @Data
 public class ProcessInstance {

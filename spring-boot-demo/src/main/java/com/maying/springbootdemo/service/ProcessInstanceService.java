@@ -9,7 +9,8 @@ import java.util.List;
  */
 public interface ProcessInstanceService {
     /**
-     *  java Stream测试
+     * java Stream测试
+     *
      * @return List<ProcessInstance>
      */
     void streamDisticntTest();

@@ -19,7 +19,7 @@ public class HttpClientService {
     private final static String path = "C:\\Users\\yingma\\Desktop\\1.pdf";
 
     @Test
-    public void downloadFile() throws Exception{
+    public void downloadFile() throws Exception {
         OkHttpClient client = new OkHttpClient().newBuilder().connectTimeout(60000, TimeUnit.MILLISECONDS).readTimeout(60000, TimeUnit.MILLISECONDS).build();
 
         Request request = new Request.Builder().url(url).build();

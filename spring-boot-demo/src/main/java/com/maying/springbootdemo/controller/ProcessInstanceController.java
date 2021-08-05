@@ -20,13 +20,13 @@ public class ProcessInstanceController {
 
     @ApiOperation("hello world 方法")
     @GetMapping("/hello")
-    public String hello(){
+    public String hello() {
         return "hello world!";
     }
 
     @ApiOperation("获取用户 方法")
     @GetMapping("/getUser")
-    public User getUser(String userName){
+    public User getUser(String userName) {
         User user = new User();
         user.setUserName(userName);
         return user;
@@ -34,7 +34,7 @@ public class ProcessInstanceController {
 
     @ApiOperation("获取用户2方法")
     @PostMapping("/getUser2")
-    public User getUser2(@RequestBody User user){
+    public User getUser2(@RequestBody User user) {
         return user;
     }
 

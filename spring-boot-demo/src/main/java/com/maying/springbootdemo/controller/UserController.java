@@ -23,7 +23,7 @@ public class UserController {
 
     @ApiOperation("查询用户列表")
     @GetMapping("/list")
-    public ResponseEntity<List<User>> list(){
+    public ResponseEntity<List<User>> list() {
         return ResponseEntity.ok(userMapper.queryUserList());
     }
 }

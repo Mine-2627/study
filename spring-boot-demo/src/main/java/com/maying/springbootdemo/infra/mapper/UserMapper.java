@@ -16,6 +16,7 @@ public interface UserMapper {
 
     /**
      * 查询用户列表
+     *
      * @return List<User>
      */
     List<User> queryUserList();

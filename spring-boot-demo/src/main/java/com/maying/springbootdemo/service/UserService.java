@@ -7,7 +7,7 @@ import com.maying.springbootdemo.domain.entity.User;
  */
 public interface UserService {
 
-    User login(String userName,String password);
+    User login(String userName, String password);
 
     User update(User user);
 }

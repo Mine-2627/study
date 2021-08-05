@@ -24,7 +24,7 @@ import static springfox.documentation.service.ApiInfo.DEFAULT_CONTACT;
 public class SwaggerConfig extends WebMvcConfigurationSupport {
 
     @Bean
-    public Docket docket(){
+    public Docket docket() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .groupName("spring-boot")
                 .apiInfo(createApiInfo())
@@ -34,7 +34,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
                 .build();
     }
 
-    private ApiInfo createApiInfo(){
+    private ApiInfo createApiInfo() {
         Contact contact = new Contact("", "", "");
 
         return new ApiInfo("Ym的swagger文档", "Api Documentation", "1.0", "http://localhost:8080",
