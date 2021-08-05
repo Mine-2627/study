@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="" />
+    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProviderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maying.providerservice.ProviderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.maying.springbootdemo.SpringBootDemoApplication" />
@@ -132,6 +141,7 @@
       <item itemvalue="JUnit.ProcessInstanceServiceImpl.streamDisticntTest" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoApplication" />
+      <item itemvalue="Spring Boot.ProviderServiceApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -170,6 +180,8 @@
       <workItem from="1627976979349" duration="6823000" />
       <workItem from="1628040617133" duration="77000" />
       <workItem from="1628070083800" duration="285000" />
+      <workItem from="1628089543749" duration="346000" />
+      <workItem from="1628128489001" duration="76000" />
     </task>
     <servers />
   </component>
@@ -273,13 +285,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1627374695796" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1627551118168">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1628128563549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1627551118168" />
-    <state x="335" y="180" key="new project wizard" timestamp="1627551111926">
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1628128563549" />
+    <state x="335" y="180" key="new project wizard" timestamp="1628128556404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="335" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1627551111926" />
+    <state x="335" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1628128556404" />
   </component>
 </project>

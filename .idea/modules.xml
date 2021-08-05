@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud/demo.iml" filepath="$PROJECT_DIR$/spring-cloud/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/easyExcel/easyExcel.iml" filepath="$PROJECT_DIR$/easyExcel/easyExcel.iml" />
       <module fileurl="file://$PROJECT_DIR$/poi/poi.iml" filepath="$PROJECT_DIR$/poi/poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-service/provider-service.iml" filepath="$PROJECT_DIR$/provider-service/provider-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot/sprint-boot.iml" filepath="$PROJECT_DIR$/spring-boot/sprint-boot.iml" />
     </modules>
