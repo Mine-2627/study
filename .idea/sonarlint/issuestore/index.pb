@@ -9,3 +9,17 @@ G
 consumer-server/pom.xml,a\5\a5daa85a1fa5e16d7834d46a3ddfeaf78e5446f3
 †
 Vconsumer-server/src/main/java/com/maying/consumerserver/ConsumerServerApplication.java,8\b\8b716914ee250806addfd332165e0e1e983b150e
+S
+#provider-server/provider-server.iml,6\9\69787ddf8cf117361d160ac3e387bc2f8300dc18
+‡
+Wspring-boot-demo/src/main/java/com/maying/springbootdemo/controller/FileController.java,d\e\de40849f86da44c7659f1c71b5e80d51c28f726e
+T
+$provider-server/provider-service.iml,d\8\d823382ea882fabb4dd6db899987b989b93e51a1
+Œ
+\provider-server/src/main/java/com/maying/providerservice/service/impl/TicketServiceImpl.java,6\2\626b7648060d5cad82632a26d0a3c073467a7784
+ƒ
+Sprovider-server/src/main/java/com/maying/providerservice/service/TicketService.java,c\d\cdfc60e7943be090cb350ec417abdcd2aecb2810
+ˆ
+Xprovider-server/src/main/java/com/maying/providerservice/ProviderServiceApplication.java,4\c\4c4e758f1582f0d3efbc4c3f4c3e083a081d23e6
+G
+provider-server/pom.xml,6\b\6b1c78c3c99caea23ab67d9826eb4bc59aa4a9ab

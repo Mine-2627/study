@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+#服务应用名字
+dubbo:
+  application:
+    name: provider-server
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  scan:
+    base-packages: com.maying.providerservice.service
