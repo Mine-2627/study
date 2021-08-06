@@ -20,35 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_70.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_spring_context_support_1_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_66_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_compatible_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_starter_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_3_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_collections_eclipse_collections_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_collections_eclipse_collections_api_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_shims_0_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_3_beta.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-server/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/provider-server/provider-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-server/provider-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-server/src/main/java/com/maying/providerservice/service/impl/TicketServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-server/src/main/java/com/maying/providerservice/service/impl/TicketServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-server/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,6 +198,7 @@
       <workItem from="1628129620704" duration="563000" />
       <workItem from="1628130204432" duration="43000" />
       <workItem from="1628130301305" duration="3183000" />
+      <workItem from="1628213062782" duration="1967000" />
     </task>
     <servers />
   </component>

@@ -10,6 +10,7 @@
         <module name="test" />
         <module name="provider-server" />
         <module name="easyExcel" />
+        <module name="provider-service" />
         <module name="spring-boot-demo" />
         <module name="spring-cloud" />
         <module name="consumer-server" />
@@ -20,6 +21,7 @@
       <module name="easyExcel" target="1.8" />
       <module name="poi" target="1.8" />
       <module name="provider-server" target="1.8" />
+      <module name="provider-service" target="1.8" />
       <module name="spring-boot-demo" target="1.8" />
       <module name="spring-cloud" target="1.8" />
       <module name="sprint-boot" target="1.8" />
@@ -30,6 +32,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="consumer-server" options="-parameters" />
       <module name="provider-server" options="-parameters" />
+      <module name="provider-service" options="-parameters" />
       <module name="spring-boot-demo" options="-parameters" />
       <module name="spring-cloud" options="-parameters" />
       <module name="test" options="-parameters" />

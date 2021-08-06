@@ -62,7 +62,6 @@
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.23.1-GA" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.collections:eclipse-collections:10.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.collections:eclipse-collections-api:10.4.0" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.66.Final" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.7" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.70" level="project" />
     <orderEntry type="library" name="Maven: org.roaringbitmap:RoaringBitmap:0.9.0" level="project" />
@@ -73,10 +72,11 @@
     <orderEntry type="library" name="Maven: org.apache.curator:curator-client:4.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:20.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.curator:curator-recipes:4.0.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.5.3-beta" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.5.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper-jute:3.5.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.yetus:audience-annotations:0.5.0" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.66.Final" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.32" level="project" />
-    <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.2" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty:3.10.5.Final" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:2.5.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:2.5.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.5.3" level="project" />
