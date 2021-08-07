@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_3_beta.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-server/provider-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-server/provider-service.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -83,6 +78,7 @@
       <recent name="com.maying.springbootdemo.domain.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\java\com\maying\springbootdemo\service" />
     </key>
@@ -199,6 +195,7 @@
       <workItem from="1628130204432" duration="43000" />
       <workItem from="1628130301305" duration="3183000" />
       <workItem from="1628213062782" duration="1967000" />
+      <workItem from="1628234503790" duration="2206000" />
     </task>
     <servers />
   </component>
