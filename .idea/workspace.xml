@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="" />
+    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/java" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -76,6 +78,7 @@
       <recent name="com.maying.springbootdemo.domain.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\java" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\java\com\maying\springbootdemo\service" />
@@ -195,6 +198,8 @@
       <workItem from="1628213062782" duration="1967000" />
       <workItem from="1628234503790" duration="2206000" />
       <workItem from="1628349779619" duration="185000" />
+      <workItem from="1628435531857" duration="653000" />
+      <workItem from="1628469718850" duration="16000" />
     </task>
     <servers />
   </component>
