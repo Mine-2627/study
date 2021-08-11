@@ -20,6 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f451278eb40d14bd376ffa0c3fe30a4ebf9515d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f451278eb40d14bd376ffa0c3fe30a4ebf9515d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2ceb8d3ef6f4f5c1be692ad751a0618940aae378" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2ceb8d3ef6f4f5c1be692ad751a0618940aae378" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c28677fbfee8fc33280e6d27d89b6c1c0718de3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c28677fbfee8fc33280e6d27d89b6c1c0718de3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/733c86f8b558885f118f4b97c4ee9c71b348b509" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/733c86f8b558885f118f4b97c4ee9c71b348b509" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,13 +88,26 @@
       <recent name="D:\ebook\study\spring-boot-demo\src\main\java\com\maying\springbootdemo\service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.PrototypeTest">
     <configuration name="LazyMan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.maying.designMode.single.LazyMan" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.maying.designMode.single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrototypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maying.designMode.prototype.PrototypeTest" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maying.designMode.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,9 +197,11 @@
       <item itemvalue="Spring Boot.SpringBootDemoApplication" />
       <item itemvalue="Spring Boot.ProviderServiceApplication" />
       <item itemvalue="Spring Boot.ConsumerServerApplication" />
+      <item itemvalue="Application.PrototypeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrototypeTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LazyMan" />
         <item itemvalue="JUnit.HttpClientService.downloadFile" />
@@ -233,6 +252,8 @@
       <workItem from="1628503964189" duration="208000" />
       <workItem from="1628560137104" duration="18000" />
       <workItem from="1628564945722" duration="8507000" />
+      <workItem from="1628650460534" duration="1571000" />
+      <workItem from="1628669284171" duration="1247000" />
     </task>
     <servers />
   </component>
