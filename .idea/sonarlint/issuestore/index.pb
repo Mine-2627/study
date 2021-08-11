@@ -23,3 +23,11 @@ Sprovider-server/src/main/java/com/maying/providerservice/service/TicketService.
 Xprovider-server/src/main/java/com/maying/providerservice/ProviderServiceApplication.java,4\c\4c4e758f1582f0d3efbc4c3f4c3e083a081d23e6
 G
 provider-server/pom.xml,6\b\6b1c78c3c99caea23ab67d9826eb4bc59aa4a9ab
+z
+Jspring-boot-demo/src/main/java/com/maying/designMode/single/SingleTon.java,3\c\3c28677fbfee8fc33280e6d27d89b6c1c0718de3
+{
+Kspring-boot-demo/src/main/java/com/maying/designMode/single/EnumSingle.java,0\f\0f451278eb40d14bd376ffa0c3fe30a4ebf9515d
+w
+Gspring-boot-demo/src/main/java/com/maying/designMode/single/Hungry.java,7\3\733c86f8b558885f118f4b97c4ee9c71b348b509
+x
+Hspring-boot-demo/src/main/java/com/maying/designMode/single/LazyMan.java,2\c\2ceb8d3ef6f4f5c1be692ad751a0618940aae378
