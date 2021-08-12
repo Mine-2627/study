@@ -1,10 +1,10 @@
 
 ^
 java:S1128"<Remove this unused import 'sun.reflect.ConstructorAccessor'.(Å¹¦ÿÿÿÿÿ8½Ó¤û²/
+I
+java:S3011",This accessibility update should be removed.(ˆ¢°ø8ÅÉªû²/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÑÏÅúÿÿÿÿ
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã–Îúøÿÿÿÿ8Ş²­û²/
 T	java:S106"9Replace this use of System.out or System.err by a logger.(´•áa8¦¤¯û²/
 W
 java:S1191"5Use classes from the Java API instead of Sun classes.(Å¹¦ÿÿÿÿÿ8½Ó¤û²/
-I
-java:S3011",This accessibility update should be removed.(ˆ¢°ø8ÅÉªû²/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÑÏÅúÿÿÿÿ
