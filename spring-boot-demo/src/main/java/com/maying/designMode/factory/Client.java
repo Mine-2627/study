@@ -35,6 +35,7 @@ public class Client {
                 case Const.PRODUCT_B:
                     return new ConcreteProduct2();
             }
+
             return null;
         }
     }
