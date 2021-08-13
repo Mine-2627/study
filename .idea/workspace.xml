@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="" />
+    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/designMode" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -71,11 +73,15 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\designMode" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.test.config" />
       <recent name="com.maying.springbootdemo.domain.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\designMode" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\java" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources" />
@@ -248,6 +254,7 @@
       <workItem from="1628564945722" duration="8507000" />
       <workItem from="1628650460534" duration="1571000" />
       <workItem from="1628669284171" duration="2521000" />
+      <workItem from="1628759110619" duration="2033000" />
     </task>
     <servers />
   </component>
