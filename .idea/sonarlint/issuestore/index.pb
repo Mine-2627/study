@@ -33,3 +33,5 @@ x
 Hspring-boot-demo/src/main/java/com/maying/designMode/single/LazyMan.java,2\c\2ceb8d3ef6f4f5c1be692ad751a0618940aae378
 Å
 Qspring-boot-demo/src/main/java/com/maying/designMode/prototype/PrototypeTest.java,4\4\44e3db4c422e389abcf712965740514dabc56247
+x
+Hspring-boot-demo/src/main/java/com/maying/designMode/factory/Client.java,c\c\cc256b7db5c850e1d404ae39c715d1927d5cdd41
