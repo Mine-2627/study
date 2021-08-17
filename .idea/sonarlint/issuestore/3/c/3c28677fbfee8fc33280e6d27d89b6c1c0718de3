@@ -1,6 +1,6 @@
 
+F
+java:S24404")Remove this instantiation of "SingleTon".(öö˜¬8ÏÉ˜ö²/
 \
 java:S11183":Add a private constructor to hide the implicit public one.(§’¹äûÿÿÿÿ8«ı²ñ²/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÑÏÅúÿÿÿÿ
-F
-java:S24404")Remove this instantiation of "SingleTon".(öö˜¬8ÏÉ˜ö²/
