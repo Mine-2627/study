@@ -1,14 +1,14 @@
 
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÑÏÅúÿÿÿÿ
 F
 java:S1068")Remove this unused "data5" private field.(ùÃÆ8˜ÿÇğ²/
 F
-java:S1068
-")Remove this unused "data2" private field.(¡–Ç¹8˜ÿÇğ²/
+java:S1068")Remove this unused "data4" private field.(•áÓš8˜ÿÇğ²/
 F
 java:S1068")Remove this unused "data3" private field.(ÔÖ©8˜ÿÇğ²/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÑÏÅúÿÿÿÿ
 F
-java:S1068")Remove this unused "data4" private field.(•áÓš8˜ÿÇğ²/
+java:S1068
+")Remove this unused "data2" private field.(¡–Ç¹8˜ÿÇğ²/
 g
 java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÂÀÅŒûÿÿÿÿ8˜ÿÇğ²/
 F

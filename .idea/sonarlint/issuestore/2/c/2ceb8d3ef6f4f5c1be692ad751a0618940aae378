@@ -1,11 +1,11 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÑÏÅúÿÿÿÿ
-I
-java:S16023",Remove useless curly braces around statement(¥—ığ8ØöÒğ²/
 I
 java:S16123",Replace this lambda with a method reference.(¥—ığ8ØöÒğ²/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(¦—”ûÿÿÿÿ8õáÓğ²/
 y
 java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(áØ¸Âşÿÿÿÿ8³“ñ²/
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(¦—”ûÿÿÿÿ8õáÓğ²/
 g
 java:S1124"EReorder the modifiers to comply with the Java Language Specification.(áØ¸Âşÿÿÿÿ8³“ñ²/
+I
+java:S16023",Remove useless curly braces around statement(¥—ığ8ØöÒğ²/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÑÏÅúÿÿÿÿ

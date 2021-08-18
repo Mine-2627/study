@@ -20,13 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f451278eb40d14bd376ffa0c3fe30a4ebf9515d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f451278eb40d14bd376ffa0c3fe30a4ebf9515d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2ceb8d3ef6f4f5c1be692ad751a0618940aae378" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2ceb8d3ef6f4f5c1be692ad751a0618940aae378" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c28677fbfee8fc33280e6d27d89b6c1c0718de3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c28677fbfee8fc33280e6d27d89b6c1c0718de3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44e3db4c422e389abcf712965740514dabc56247" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44e3db4c422e389abcf712965740514dabc56247" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/733c86f8b558885f118f4b97c4ee9c71b348b509" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/733c86f8b558885f118f4b97c4ee9c71b348b509" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc256b7db5c850e1d404ae39c715d1927d5cdd41" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc256b7db5c850e1d404ae39c715d1927d5cdd41" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -264,7 +257,7 @@
       <workItem from="1628759110619" duration="2033000" />
       <workItem from="1628845042944" duration="810000" />
       <workItem from="1629100601833" duration="1913000" />
-      <workItem from="1629193698760" duration="149000" />
+      <workItem from="1629193698760" duration="855000" />
     </task>
     <servers />
   </component>

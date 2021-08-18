@@ -37,3 +37,5 @@ x
 Hspring-boot-demo/src/main/java/com/maying/designMode/factory/Client.java,c\c\cc256b7db5c850e1d404ae39c715d1927d5cdd41
 w
 Gspring-boot-demo/src/main/java/com/maying/designMode/factory/config.xml,9\1\912128d03410609134410e507378848276559da2
+…
+Uspring-boot-demo/src/main/java/com/maying/designMode/factory/AbstractFactoryTest.java,c\3\c3fc46c6d332ec821416a9335b1964906dd1509d
