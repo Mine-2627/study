@@ -39,7 +39,7 @@ set /A a+=1
 ren "%%n" "!a!.mp4"
 
 )
-
+#test
 
 for %%a in (*.mp4) do (
     echo %%~na|findstr "^[0-9]*$" >nul && (
