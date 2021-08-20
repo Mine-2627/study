@@ -1,19 +1,19 @@
 
 Z	java:S106:"9Replace this use of System.out or System.err by a logger.(‹žÀ„øÿÿÿÿ8è­Žœµ/
-W	java:S125M"<This block of commented-out lines of code should be removed.(«†¨
-8èÆœµ/
-\
-java:S1118@":Add a private constructor to hide the implicit public one.(·«•óùÿÿÿÿ8èÆœµ/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œû‰
-U
-java:S2755E"3Disable access to external entities in XML parsing.(·Œþáýÿÿÿÿ8¤Þ’œµ/
-U	java:S106)"9Replace this use of System.out or System.err by a logger.(ºã¤ò8è­Žœµ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8ðÂœµ/
 U	java:S1063"9Replace this use of System.out or System.err by a logger.(ÌåÓà8è­Žœµ/
 }
 java:S1488P"[Immediately return this expression instead of assigning it to the temporary variable "obj".(ôÄ‡úÿÿÿÿ8èÆœµ/
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ÌÿŒŸþÿÿÿÿ8è­Žœµ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œû‰
 ]
 java:S2259"@A "NullPointerException" could be thrown; "af" is nullable here.(ÕŒ¤’8èÆœµ/
 U
+java:S2755E"3Disable access to external entities in XML parsing.(·Œþáýÿÿÿÿ8¤Þ’œµ/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ÌÿŒŸþÿÿÿÿ8è­Žœµ/
+U
 java:S1874P"3Remove this use of "newInstance"; it is deprecated.(ôÄ‡úÿÿÿÿ8èÆœµ/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ºã¤ò8è­Žœµ/
+W	java:S125M"<This block of commented-out lines of code should be removed.(«†¨
+8èÆœµ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8ðÂœµ/
+\
+java:S1118@":Add a private constructor to hide the implicit public one.(·«•óùÿÿÿÿ8èÆœµ/
