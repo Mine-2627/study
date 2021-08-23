@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/docker" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -73,19 +75,19 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\docker" />
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static" />
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\java\com\maying\designMode\factory" />
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\designMode" />
+      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.test.config" />
       <recent name="com.maying.springbootdemo.domain.entity" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static" />
-      <recent name="D:\ebook\study\spring-boot-demo\src\main\java\com\maying\designMode\factory" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\designMode" />
-      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\java" />
-      <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note" />
     </key>
   </component>
   <component name="RunManager" selected="Application.StringUtilTest">
@@ -257,6 +259,8 @@
       <workItem from="1629193698760" duration="855000" />
       <workItem from="1629279397893" duration="827000" />
       <workItem from="1629362593105" duration="1305000" />
+      <workItem from="1629451337977" duration="215000" />
+      <workItem from="1629452298844" duration="6000" />
     </task>
     <servers />
   </component>
