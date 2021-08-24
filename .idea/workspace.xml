@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,6 +257,7 @@
       <workItem from="1629362593105" duration="1305000" />
       <workItem from="1629451337977" duration="215000" />
       <workItem from="1629452298844" duration="6000" />
+      <workItem from="1629767610331" duration="27000" />
     </task>
     <servers />
   </component>
