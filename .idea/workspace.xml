@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="" />
+    <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/domain/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/domain/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service/impl/ProcessInstanceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service/impl/ProcessInstanceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +77,9 @@
     <property name="project.structure.side.proportion" value="0.4275862" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\docker" />
@@ -86,7 +96,7 @@
       <recent name="D:\ebook\study\spring-boot-demo\src\main\resources\static\note\designMode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringUtilTest">
+  <component name="RunManager" selected="Application.UserServiceImpl">
     <configuration name="LazyMan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.maying.designMode.single.LazyMan" />
       <module name="spring-boot-demo" />
@@ -139,7 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpClientService.downloadFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maying.springbootdemo.service.impl.UserServiceImpl" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
@@ -147,10 +158,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.maying.springbootdemo.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.maying.springbootdemo.service.impl.HttpClientService" />
-      <option name="METHOD_NAME" value="downloadFile" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,19 +195,19 @@
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.PrototypeTest" />
       <item itemvalue="Application.StringUtilTest" />
-      <item itemvalue="JUnit.HttpClientService.downloadFile" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoApplication" />
       <item itemvalue="Spring Boot.ProviderServiceApplication" />
       <item itemvalue="Spring Boot.ConsumerServerApplication" />
+      <item itemvalue="Application.UserServiceImpl" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserServiceImpl" />
         <item itemvalue="Application.StringUtilTest" />
         <item itemvalue="Application.PrototypeTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LazyMan" />
-        <item itemvalue="JUnit.HttpClientService.downloadFile" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +266,8 @@
       <workItem from="1629452298844" duration="6000" />
       <workItem from="1629767610331" duration="27000" />
       <workItem from="1629805074389" duration="13000" />
+      <workItem from="1629968042230" duration="117000" />
+      <workItem from="1630049072406" duration="1545000" />
     </task>
     <servers />
   </component>
@@ -310,38 +319,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="209" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1628130244366" />
-    <state width="1877" height="204" key="GridCell.Tab.0.bottom" timestamp="1629364046905">
+    <state width="1877" height="107" key="GridCell.Tab.0.bottom" timestamp="1630050398884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629364046905" />
-    <state width="1877" height="204" key="GridCell.Tab.0.center" timestamp="1629364046905">
+    <state width="1877" height="107" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630050398884" />
+    <state width="1877" height="107" key="GridCell.Tab.0.center" timestamp="1630050398884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629364046905" />
-    <state width="1877" height="204" key="GridCell.Tab.0.left" timestamp="1629364046904">
+    <state width="1877" height="107" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630050398884" />
+    <state width="1877" height="107" key="GridCell.Tab.0.left" timestamp="1630050398884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629364046904" />
-    <state width="1877" height="204" key="GridCell.Tab.0.right" timestamp="1629364046905">
+    <state width="1877" height="107" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630050398884" />
+    <state width="1877" height="107" key="GridCell.Tab.0.right" timestamp="1630050398884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629364046905" />
-    <state width="1877" height="513" key="GridCell.Tab.1.bottom" timestamp="1627985207209">
+    <state width="1877" height="107" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630050398884" />
+    <state width="1877" height="236" key="GridCell.Tab.1.bottom" timestamp="1630050399530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="513" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627985207209" />
-    <state width="1877" height="513" key="GridCell.Tab.1.center" timestamp="1627985207209">
+    <state width="1877" height="236" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630050399530" />
+    <state width="1877" height="236" key="GridCell.Tab.1.center" timestamp="1630050399530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="513" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627985207209" />
-    <state width="1877" height="513" key="GridCell.Tab.1.left" timestamp="1627985207209">
+    <state width="1877" height="236" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630050399530" />
+    <state width="1877" height="236" key="GridCell.Tab.1.left" timestamp="1630050399530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="513" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627985207209" />
-    <state width="1877" height="513" key="GridCell.Tab.1.right" timestamp="1627985207209">
+    <state width="1877" height="236" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630050399530" />
+    <state width="1877" height="236" key="GridCell.Tab.1.right" timestamp="1630050399530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="513" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627985207209" />
+    <state width="1877" height="236" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630050399530" />
     <state width="1877" height="513" key="GridCell.Tab.2.bottom" timestamp="1627985207210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -378,5 +387,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="224" y="176" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1628130004727" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service/impl/UserServiceImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

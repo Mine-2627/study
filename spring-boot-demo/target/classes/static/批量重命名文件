@@ -39,8 +39,8 @@ set /A a+=1
 ren "%%n" "!a!.mp4"
 
 )
-
-
+#testdd
+#
 for %%a in (*.mp4) do (
     echo %%~na|findstr "^[0-9]*$" >nul && (
         if %%~na lss 10 (
@@ -54,6 +54,7 @@ for %%a in (*.mp4) do (
         )
     )
 )
+
 ren abc*.tmp abc*.mp4
 pause
 

@@ -2,6 +2,7 @@ package com.maying.springbootdemo.domain.entity;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import com.fasterxml.jackson.annotation.JsonFormat;
+import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
@@ -27,5 +28,9 @@ public class User {
     private String phoneNumber;
     @ApiModelProperty("邮箱")
     private String email;
-
+    @ApiModelProperty("父级id")
+    private Long parentId;
+    @ApiModelProperty
+    private int leaf;
+    private int age;
 }
