@@ -1,0 +1,8 @@
+
+M
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8˜ù­´¸/
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8Æêôµ¸/
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(êİ”Œ8ú™Ä´¸/
+k
+java:S1128"PRemove this unused import 'com.maying.springbootdemo.controller.UserController'.(…‰›ûşÿÿÿÿ

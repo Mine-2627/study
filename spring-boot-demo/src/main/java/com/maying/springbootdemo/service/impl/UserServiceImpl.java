@@ -4,7 +4,6 @@ import com.maying.springbootdemo.controller.UserController;
 import com.maying.springbootdemo.domain.entity.User;
 import com.maying.springbootdemo.service.UserService;
 import org.junit.Test;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
@@ -32,12 +31,12 @@ public class UserServiceImpl implements UserService {
         User user = new User();
         user.setUserId(1L);
         user.setParentId(0L);
-        user.setAge(0);
+        user.setAge(1);
         userList.add(user);
         User user2 = new User();
         user2.setUserId(2L);
         user2.setParentId(1L);
-        user2.setAge(0);
+        user2.setAge(2);
         userList.add(user2);
         User user3 = new User();
         user3.setUserId(3L);
@@ -53,18 +52,36 @@ public class UserServiceImpl implements UserService {
         userList.add(user4);
 
 
-        Map<Long,User> resultMap = userList.stream().collect(Collectors.toMap(User::getUserId, a->a));
+
+        Map<Long,User> resultMap = userList.stream().collect(Collectors.toMap(User::getUserId,a->a));
+
+        //对树分层
+        int max = 1;
+        int level = 1;
         for(User planDetail:userList){
-            //非根节点处理
             User temp = planDetail;
-            if(temp.getLeaf()==1){
-                while(temp.getParentId()!=0L){
-                    User parentNode = resultMap.get(temp.getParentId());
-                    parentNode.setAge(parentNode.getAge()+temp.getAge());
-                    temp = parentNode;
-                }
+            while (temp.getParentId()!=0L){
+                temp = resultMap.get(temp.getParentId());
+                level++;
             }
+            planDetail.setNodeLevel(level);
+            max = max>level?max:level;
+            level = 1 ;
         }
+        //从最底层的树往上求和
+        Map<Integer,List<User>> levelMap =userList.stream().collect(Collectors.groupingBy(User::getNodeLevel));
+        for(Integer i = max; i>1;i--){
+            List<User> levelList = levelMap.get(i);
+            for(User sonNode :levelList){
+                User parentNode = resultMap.get(sonNode.getParentId());
+                parentNode.setAge(sonNode.getAge()+parentNode.getAge());
+            }
+
+        }
+
+
+
+
         System.out.println(userList.toString());
     }
 

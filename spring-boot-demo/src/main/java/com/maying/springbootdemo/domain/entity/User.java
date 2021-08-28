@@ -33,4 +33,5 @@ public class User {
     @ApiModelProperty
     private int leaf;
     private int age;
+    private int nodeLevel;
 }
