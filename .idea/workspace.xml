@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3fc46c6d332ec821416a9335b1964906dd1509d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/domain/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/domain/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/maying/springbootdemo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/designMode/设计模式-详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/designMode/设计模式-详解.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,6 +264,7 @@
       <workItem from="1629968042230" duration="117000" />
       <workItem from="1630049072406" duration="2506000" />
       <workItem from="1630052963550" duration="1342000" />
+      <workItem from="1630206646550" duration="68000" />
     </task>
     <servers />
   </component>

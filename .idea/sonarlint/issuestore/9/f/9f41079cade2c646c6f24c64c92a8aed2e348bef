@@ -1,18 +1,18 @@
 
-d
-java:S2095&"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î
-R
-java:S1854"7Remove this useless assignment to local variable "max".(­õÔÑøÿÿÿÿ
-N	java:S106$"9Replace this use of System.out or System.err by a logger.(¬ã
 o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠŒÜ¾
-[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Óâ€ë
 o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹„Ù
 [
 java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŠŒÜ¾
-C
-java:S1481"(Remove this unused "max" local variable.(­õÔÑøÿÿÿÿ
-\	java:S899!"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
 [
 java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¹„Ù
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¬ã
+R
+java:S1854"7Remove this useless assignment to local variable "max".(­õÔÑøÿÿÿÿ
+d
+java:S2095&"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î
+\	java:S899!"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+C
+java:S1481"(Remove this unused "max" local variable.(­õÔÑøÿÿÿÿ
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Óâ€ë
 W
 java:S1075"ARefactor your code to get this URI from a customizable parameter.(ŠŒÜ¾
