@@ -1,11 +1,11 @@
 
-~
-java:S4144/"bUpdate this method so that its implementation is not identical to "streamDisticntTest" on line 21.(–Å‘a8¥¸ƒ´¸/
 S	java:S106)"9Replace this use of System.out or System.err by a logger.(ú˜Ñíûÿÿÿÿ
-1
-java:S3626+"Remove this redundant jump.(ûÁÝ…
-f
-java:S1192"IDefine a constant instead of duplicating this literal "Approved" 4 times.(çÅ›Ç8’š‚´¸/
 Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ú˜Ñíûÿÿÿÿ8’š‚´¸/
 8
 java:S3626E"Remove this redundant jump.(ûÁÝ…8’š‚´¸/
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Approved" 4 times.(çÅ›Ç8’š‚´¸/
+~
+java:S4144/"bUpdate this method so that its implementation is not identical to "streamDisticntTest" on line 21.(–Å‘a8¥¸ƒ´¸/
+1
+java:S3626+"Remove this redundant jump.(ûÁÝ…
