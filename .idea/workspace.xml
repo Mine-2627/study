@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adb760-e21d-4806-a63e-7d82ea0c8ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79249e6d9ec5d775454c3f90a51d257db3bc9714" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eca4c39c160faa0739b578113b0a8ed478c12c1d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eca4c39c160faa0739b578113b0a8ed478c12c1d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/designMode/设计模式-详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/static/note/designMode/设计模式-详解.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,6 +269,7 @@
       <workItem from="1630052963550" duration="1342000" />
       <workItem from="1630206646550" duration="68000" />
       <workItem from="1630315927168" duration="485000" />
+      <workItem from="1630457092345" duration="26000" />
     </task>
     <servers />
   </component>
